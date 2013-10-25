@@ -12,6 +12,7 @@
  *
  * @var bool
  */
+/* Comment added by Jani*/
 
 define('WP_USE_THEMES', true);
 
